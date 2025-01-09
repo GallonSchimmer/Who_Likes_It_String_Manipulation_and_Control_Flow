@@ -1,5 +1,7 @@
 # Who_Likes_It_String_Manipulation_and_Control_Flow
 
+[CodeWars Kata Who likes it? Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)
+
 ## Problem Statement
 Create a system to generate human-readable text based on an array of names representing individuals who "like" an item. The output format should adapt based on the number of names provided:
 - No names → "no one likes this"
